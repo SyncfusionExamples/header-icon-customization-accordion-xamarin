@@ -6,6 +6,7 @@ To learn more about SfAccordion, check out the official user guide topics:
 
 - [Getting Started with Xamarin Accordion (SfAccordion)](https://help.syncfusion.com/xamarin/accordion/getting-started)
 
+**KB Link:** **[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12327/how-to-customize-the-header-icon-in-xamarin-froms-accordion-sfaccordion)**
 
 ## What this sample shows
 
